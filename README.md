@@ -55,8 +55,8 @@ poly_model = Pipeline([
     ('model', LinearRegression())
 ])
 # Evaluate models
-print('Name: LOKESHWARAN.G')
-print('Reg. No: 212225040210')
+print('Name: SHRIHARI M')
+print('Reg. No: 212225230265')
 print("Linear Regression:")
 print('MSE=',mean_squared_error(y_test,y_pred_linear))
 r2score=r2_score(y_test,y_pred_linear)
